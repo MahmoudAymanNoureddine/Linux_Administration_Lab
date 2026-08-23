@@ -30,3 +30,9 @@ cat /tmp/test.log
 - Learned how recurring tasks can be used for monitoring and automation.
 - Learned how to redirect command output to log files.
 - Learned how to verify scheduled task execution through log inspection.
+
+## screenshots
+- cron-job-setup.png
+- cron-job-configuration.png
+- cron-job-schedule.png
+- cron-job-execution.png
