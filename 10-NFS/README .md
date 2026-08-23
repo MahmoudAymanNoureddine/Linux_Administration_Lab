@@ -33,3 +33,6 @@ mount localhost:/shared-data /mnt/nfs-test
 - Learned how to verify exported resources.
 - Learned how NFS enables file sharing across Linux systems.
 
+## screenshots
+- nfs-service-status.jpg
+- nfs-operations.jpg
