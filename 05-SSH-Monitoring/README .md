@@ -31,3 +31,6 @@ journalctl -xe
 - Learned how to detect authentication failures.
 - Learned how to analyze SSH-related logs using system tools.
 - Learned the importance of log monitoring in security operations.
+
+## screenshots 
+- sshd-service-status.png
