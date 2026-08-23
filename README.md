@@ -22,5 +22,5 @@ This repository contains practical Linux Administration labs completed after stu
 - Kali Linux
 
 ## Author
-Mahmoud Ayman Noureddine
+Mahmoud Ayman Noureddine | 
 Cybersecurity Researcher & SOC Analyst 
