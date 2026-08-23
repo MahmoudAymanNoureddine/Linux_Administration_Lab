@@ -11,8 +11,8 @@ Learn how to create and manage users and groups in Linux.
 passwd analyst1 passwd analyst2
 groupadd soc_team
 usermod -aG soc_team analyst1 usermod -aG soc_team analyst2
-id analyst1 id analyst2
----
+---id analyst1 id analyst2
+
 ## Results
 - Created two users
 - Created a group
