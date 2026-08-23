@@ -6,7 +6,7 @@ markdown
 This repository contains hands-on Linux Administration laboratories completed after studying:
 - Red Hat System Administration I
 - Red Hat System Administration II
-The project demonstrates practical Linux administration skills through real-world labs and exercises.
+-The project demonstrates practical Linux administration skills through real-world labs and exercises.
 
 
 ## Labs Included
