@@ -1,4 +1,4 @@
-markdown
+
 # Linux Administration Lab
 
 ## Overview
