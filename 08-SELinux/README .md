@@ -32,3 +32,7 @@ restorecon -v /tmp/security_test
 - Learned how to modify file contexts using chcon.
 - Learned how to restore default contexts using restorecon.
 - Learned how SELinux helps enforce access control policies.
+
+## screenshots
+- getenforce-status.jpg
+- selinux-context.jpg
