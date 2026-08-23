@@ -4,7 +4,7 @@
 ## Objective
 Learn how to create and manage users and groups in Linux.
 
-`markdown
+
 ## Commands Used
 bash useradd analyst1 useradd analyst2
 passwd analyst1 passwd analyst2
