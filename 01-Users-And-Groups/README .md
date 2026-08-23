@@ -4,6 +4,7 @@
 ## Objective
 Learn how to create and manage users and groups in Linux.
 
+`markdown
 ## Commands Used
 bash useradd analyst1 useradd analyst2
 passwd analyst1 passwd analyst2
@@ -21,3 +22,10 @@ id analyst1 id analyst2
 - User Management
 - Group Management
 - Access Control Basics
+
+markdown
+## Lessons Learned
+- Learned how to create local users in Linux.
+- Learned how to create and manage groups.
+- Learned how to assign users to groups.
+- Learned how to verify user and group memberships.
