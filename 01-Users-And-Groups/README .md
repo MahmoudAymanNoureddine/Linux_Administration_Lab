@@ -23,7 +23,6 @@ id analyst1 id analyst2
 - Group Management
 - Access Control Basics
 
-markdown
 ## Lessons Learned
 - Learned how to create local users in Linux.
 - Learned how to create and manage groups.
