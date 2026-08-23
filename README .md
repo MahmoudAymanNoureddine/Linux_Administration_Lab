@@ -1,4 +1,6 @@
 markdown
+# Linux Administration Lab
+
 ## Overview
 
 This repository documents my hands-on Linux Administration journey after completing Red Hat System Administration I and II.
