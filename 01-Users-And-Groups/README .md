@@ -7,11 +7,16 @@ Learn how to create and manage users and groups in Linux.
 
 ## Commands Used
 ```
-bash useradd analyst1 useradd analyst2
-passwd analyst1 passwd analyst2
+# bash
+useradd analyst1
+useradd analyst2
+passwd analyst1
+passwd analyst2
 groupadd soc_team
-usermod -aG soc_team analyst1 usermod -aG soc_team analyst2
-id analyst1 id analyst2
+usermod -aG soc_team analyst1
+usermod -aG soc_team analyst2
+id analyst1
+id analyst2
 ```
 
 
