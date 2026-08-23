@@ -35,3 +35,10 @@ resize2fs /dev/soc_vg/logs-lv
 - Learned how to mount logical volumes.
 - Learned how to extend storage capacity dynamically.
 - Learned how to resize filesystems safely after expansion.
+
+## screenshots
+- physical-volume.jpg
+- VG&LV-creation.jpg
+- filesystem-creation.jpg
+- mount-volume.jpg
+- LV-extension&resize.jpg
