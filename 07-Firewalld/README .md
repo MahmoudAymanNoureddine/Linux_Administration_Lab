@@ -33,3 +33,7 @@ firewall-cmd --reload
 - Learned how to reload firewall configurations safely.
 - Learned how to verify active firewall rules.
 - Learned the importance of firewall management in Linux security.
+
+## screenshots
+- firewall-status.jpg
+- add-port-rule.jpg
