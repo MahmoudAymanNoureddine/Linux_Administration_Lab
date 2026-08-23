@@ -34,3 +34,8 @@ ping 192.168.1.1 -c 5
 - Learned how to identify listening ports and services.
 - Learned how to analyze routing information.
 - Learned how to verify network connectivity using ping.
+
+## screenshots
+- ip-address-info.png
+- nmcli-device-info.png
+- listening-ports.png
