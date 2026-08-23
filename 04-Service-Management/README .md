@@ -28,3 +28,8 @@ systemctl status cockpit.socket
 - Learned how systemd manages system services and processes.
 - Learned how to monitor critical services such as SSH.
 - Learned how service management is essential for system administration and troubleshooting.
+
+## Screenshots
+- service-listing.png
+- sshd-service-status.png
+- cockpit-service-status.png
