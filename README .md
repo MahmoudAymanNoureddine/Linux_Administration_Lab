@@ -1,13 +1,11 @@
 markdown
-# Linux Administration Lab
-
-
 ## Overview
-This repository contains hands-on Linux Administration laboratories completed after studying:
-- Red Hat System Administration I
-- Red Hat System Administration II
--The project demonstrates practical Linux administration skills through real-world labs and exercises.
 
+This repository documents my hands-on Linux Administration journey after completing Red Hat System Administration I and II.
+
+The labs included in this project cover essential Linux administration topics such as user and group management, access control, task automation, service management, networking, security, storage administration, and file sharing.
+
+All exercises were performed in a Red Hat Enterprise Linux environment and are documented to demonstrate practical skills and real-world system administration experience.
 
 ## Labs Included
 - Users and Groups Management
