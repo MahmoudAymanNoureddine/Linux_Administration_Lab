@@ -1,13 +1,16 @@
-`markdown
+
 # SSH Monitoring Lab
 
 ## Objective
 Learn how to monitor SSH activity and analyze authentication logs.
 
 ## Commands Used
-bash systemctl status sshd
+```
+# bash
+systemctl status sshd
 journalctl -u sshd
 journalctl -xe
+```
 
 ## Results
 - Monitored SSH service status
@@ -20,3 +23,11 @@ journalctl -xe
 - Log Analysis
 - Linux Security
 - Authentication Troubleshooting
+
+
+## Lessons Learned
+- Learned how to monitor SSH service activity.
+- Learned how to identify successful login attempts.
+- Learned how to detect authentication failures.
+- Learned how to analyze SSH-related logs using system tools.
+- Learned the importance of log monitoring in security operations.
