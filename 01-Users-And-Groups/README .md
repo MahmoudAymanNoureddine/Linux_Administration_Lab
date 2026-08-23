@@ -1,4 +1,4 @@
-`markdown
+
 # Users and Groups Lab
 
 ## Objective
