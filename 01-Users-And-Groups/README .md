@@ -36,3 +36,8 @@ id analyst2
 - Learned how to create and manage groups.
 - Learned how to assign users to groups.
 - Learned how to verify user and group memberships.
+  
+
+## Screenshot
+  user-group-management.png
+ 
