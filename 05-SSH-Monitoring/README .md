@@ -34,3 +34,5 @@ journalctl -xe
 
 ## screenshots 
 - sshd-service-status.png
+- ssh-authentication-failure.png
+- successful-ssh-login.png
