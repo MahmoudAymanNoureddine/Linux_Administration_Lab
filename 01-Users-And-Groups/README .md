@@ -39,5 +39,5 @@ id analyst2
   
 
 ## Screenshot
-  user-group-management.png
+- user-group-management.png
  
