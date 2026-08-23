@@ -48,6 +48,13 @@ All exercises were performed in a Red Hat Enterprise Linux environment and are d
 text Linux_Administrations_Lab │ ├── 01-Users-And-Groups ├── 02-ACL ├── 03-Cron-Jobs ├── 04-Service-Management ├── 05-SSH-Monitoring ├── 06-Network-Monitoring ├── 07-Firewalld ├── 08-SELinux ├── 09-LVM └── 10-NFS
 
 
+## Goals
+- Build strong Linux Administration skills
+- Develop SOC Analyst capabilities
+- Create a professional cybersecurity portfolio
+- Document practical hands-on experience
+
+
 ## Author
 
 Mahmoud Ayman Noureddine
@@ -55,11 +62,3 @@ Mahmoud Ayman Noureddine
 - Cybersecurity Researcher & SOC Analyst 
 - M.Sc. Student in Computer Science
 - B.Sc. Communications & Electronics Engineering (Excellent)
-
-
-## Goals
-- Build strong Linux Administration skills
-- Develop SOC Analyst capabilities
-- Create a professional cybersecurity portfolio
-- Document practical hands-on experience
-
