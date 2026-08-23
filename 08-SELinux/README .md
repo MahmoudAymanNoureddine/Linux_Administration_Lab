@@ -1,16 +1,19 @@
-`markdown
+
 # SELinux Lab
 
 ## Objective
 Learn how SELinux contexts work and how to manage them.
 
 ## Commands Used
-bash getenforce
+```
+# bash
+getenforce
 sestatus
 touch /tmp/security_test
 ls -Z /tmp/security_test
 chcon -t httpd_sys_content_t /tmp/security_test
 restorecon -v /tmp/security_test
+```
 
 ## Results
 - Verified SELinux status
@@ -22,3 +25,10 @@ restorecon -v /tmp/security_test
 - SELinux
 - Context Management
 - Linux Security
+
+## Lessons Learned
+- Learned how SELinux provides an additional security layer.
+- Learned how to inspect security contexts.
+- Learned how to modify file contexts using chcon.
+- Learned how to restore default contexts using restorecon.
+- Learned how SELinux helps enforce access control policies.
