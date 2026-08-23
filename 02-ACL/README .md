@@ -28,3 +28,7 @@ getfacl /soc_lab
 - ACL configurations can be verified using the getfacl command.
 - ACL entries can be modified using the setfacl command.
 - Fine-grained access control improves Linux security and administration.
+
+## Screenshots
+- acl-setup.png
+- acl-verification.png
